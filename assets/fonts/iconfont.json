@@ -1,0 +1,23 @@
+{
+  "id": "5155548",
+  "name": "123",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10568953",
+      "name": "Dolphin",
+      "font_class": "Dolphin",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "10568959",
+      "name": "Bull",
+      "font_class": "Bull",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    }
+  ]
+}
